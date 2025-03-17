@@ -1,4 +1,3 @@
-
 # DB Migration Tool
 
 ## Introduction
